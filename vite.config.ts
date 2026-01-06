@@ -4,7 +4,7 @@
   import path from 'path';
 
   export default defineConfig({
-    base: '/sukha-yatra/',
+    base: '/sukha-yatra-web/',
     plugins: [react()],
     resolve: {
       extensions: ['.js', '.jsx', '.ts', '.tsx', '.json'],
